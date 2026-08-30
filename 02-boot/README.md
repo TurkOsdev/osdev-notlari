@@ -17,7 +17,7 @@ Bu bölüm, kernel'in hangi durumda (hangi mod, hangi bellek düzeni, hangi regi
 | Gerçek moddan korumalı ve long mode'a geçiş | `mod-gecisleri.md` | ⬜ |
 | A20 hattı | `a20.md` | ⬜ |
 | Multiboot ve Multiboot2 | `multiboot.md` | ⬜ |
-| Limine boot protokolü | `limine.md` | 🟡 |
+| [Limine boot protokolü](./limine.md) | `limine.md` | 🟡 |
 | GRUB yapılandırması | `grub.md` | ⬜ |
 | Bootloader yazmak mı, hazır bootloader mı | `bootloader-secimi.md` | ⬜ |
 | Secure Boot | `secure-boot.md` | ⬜ |
