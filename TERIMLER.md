@@ -121,6 +121,9 @@ Bu terimler çevrilmez. Türkçe ek gerektiğinde kesme işareti kullanılır.
 | run queue | çalışmaya hazır process'lerin tutulduğu kuyruk | scheduler bağlamında bu adla geçiyor |
 | idle | işlemcinin yapacak iş olmadığında girdiği boşta durum | "boşta" tek başına yeterince belirli değil |
 | guard page | taşmayı yakalamak için haritalanmadan bırakılan sayfa | çevirisi yerleşmemiş |
+| target triple | toolchain'in hedeflediği sistemi belirten ad (`x86_64-elf`) | derleyici seçeneklerinde bu adla geçiyor |
+| red zone | x86-64 ABI'sinde stack pointer'ın altında kalan 128 baytlık bölge | `-mno-red-zone` bayrağının adında geçiyor |
+| multilib | aynı derleyicinin farklı bayrak kümeleri için ürettiği kütüphane sürümleri | GCC'nin kendi terimi |
 
 ## Ek alma kuralları
 
