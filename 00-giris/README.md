@@ -12,7 +12,7 @@ Bu bölüm, sonraki bölümlerde anlatılan konuları denemek için gereken çal
 | Nereden başlanır: yol haritası | [yol-haritasi.md](yol-haritasi.md) | ✅ |
 | Ön gereksinimler (C, assembly, bilgisayar mimarisi) | [on-gereksinimler.md](on-gereksinimler.md) | ✅ |
 | Geliştirme ortamı kurulumu (Linux / WSL) | [gelistirme-ortami.md](gelistirme-ortami.md) | ✅ |
-| Cross-compiler hazırlama (GCC, Clang) | `cross-compiler.md` | ⬜ |
+| Cross-compiler hazırlama (GCC, Clang) | [cross-compiler.md](cross-compiler.md) | ✅ |
 | Build sistemi: Make ve alternatifleri | `build-sistemi.md` | ⬜ |
 | QEMU ile emülasyon | `qemu.md` | ⬜ |
 | GDB ile kernel hata ayıklama | `gdb.md` | ⬜ |
