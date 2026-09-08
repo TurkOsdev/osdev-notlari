@@ -7,7 +7,7 @@
 * **Kaynak paylaşımı:** Her bileşene yettiği kadar kaynak sağlar (örneğin Klavye girişi için sadece birkaç KB)
 * **Güvenlik ve yetkilendirme:** Kullanıcı ve bilinen servislere yetkilendirme yapar ve güvenliğini sağlar. Ayrıca uygulamaların donanıma **doğrudan** erişimini kısıtlayarak sistemi korur.
 
-## Örnek Kernel Mimarileri
+## Kernel Mimarileri
 * **Monolitik (monolithic):** Bütün servisleri tek bir yapı altında yüksek yetki ile çalıştırır. Çok hızlıdır ama tek bir hata çökmesine neden olur. (Örneğin: Linux, UNIX)
 * **Mikro çekirdek (microkernel):** Çekirdek içinde **sadece** en temel işlevler bulunur. Sürücüler ve servisler userspace'de çalışır. Güvenlidir fakat yavaştır. (Örneğin: Minix, L4)
 * **Hibrit çekirdek (hybrid kernel):** Monolitik ve Mikro kernel'in en iyi yanlarını birleştirir. Bazı servisler çekirdekte bazıları userspace'de kalır. (Örneğin, Windows NT, XNU)
