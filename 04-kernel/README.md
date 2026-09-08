@@ -9,7 +9,7 @@ Bu bölüm, kernel'in donanımla kurduğu sözleşmeyi anlatır. Bellek yönetim
 | Konu | Dosya | Durum |
 | --- | --- | --- |
 | Kernel nedir, ne yapar | [kernel-nedir.md](kernel-nedir.md) | ✅ |
-| Kernel mimarileri: monolitik, mikrokernel, hibrit | `kernel-mimarileri.md` | ⬜ |
+| Kernel mimarileri: monolitik, mikrokernel, hibrit | `kernel-mimarileri.md` | ✅ |
 | Freestanding C ortamı ve kısıtları | `freestanding-c.md` | ⬜ |
 | Kernel'in bellek yerleşimi ve higher half | `bellek-yerlesimi.md` | ⬜ |
 | GDT (Global Descriptor Table) | `gdt.md` | ⬜ |
