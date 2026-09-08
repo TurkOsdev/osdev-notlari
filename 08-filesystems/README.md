@@ -13,7 +13,7 @@ Blok cihazların üzerine kurulan dosya soyutlaması: blok katmanı, VFS, disk �
 | inode, dentry ve dosya tanımlayıcıları | `inode-ve-dentry.md` | ⬜ |
 | Dosya işlemleri: open, read, write, close | `dosya-islemleri.md` | ⬜ |
 | FAT12 / FAT16 / FAT32 | `fat.md` | ⬜ |
-| ext2 | `ext2.md` | ⬜ |
+| ext2 | `ext2.md` | ✅ |
 | ext4 ve journaling | `ext4-ve-journaling.md` | ⬜ |
 | initrd ve initramfs | `initrd.md` | ⬜ |
 | Sanal dosya sistemleri: tmpfs, devfs, procfs | `sanal-dosya-sistemleri.md` | ⬜ |
