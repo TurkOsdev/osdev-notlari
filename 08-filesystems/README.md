@@ -6,7 +6,7 @@ Blok cihazların üzerine kurulan dosya soyutlaması: blok katmanı, VFS, disk �
 
 | Konu | Dosya | Durum |
 | --- | --- | --- |
-| Dosya sistemi nedir, hangi sorunu çözer | `dosya-sistemi-nedir.md` | ⬜ |
+| Dosya sistemi nedir, hangi sorunu çözer | `dosya-sistemi-nedir.md` | ✅ |
 | Blok cihazlar ve blok katmanı | `blok-katmani.md` | ⬜ |
 | Bölümleme şemaları (MBR, GPT) | `bolumleme.md` | ⬜ |
 | VFS (Virtual File System) | `vfs.md` | ⬜ |
