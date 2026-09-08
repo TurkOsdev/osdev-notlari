@@ -7,3 +7,7 @@
 **ext2 dosya sistemi, en çok 4 TB boyutundaki disk bölümünü destekler ve bu bölüm üzerinde en çok 2 GB boyutuna kadar olan dosyalara izin verir.**
 **ext2, dosya ve dizin isimlerinde 255 karaktere kadar izin verir.**
 **Ext2 ile iç içe 32768 tane dizin oluşturabilirsiniz.**
+
+
+### Kaynaklar
+[Vikipedi - Özgür Ansiklopedi.](https://tr.wikipedia.org/wiki/Ext2)
