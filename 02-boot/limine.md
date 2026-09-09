@@ -847,3 +847,4 @@ Limine burada sistemin geri kalanını oluşturmaz; kernel'in güvenilir ve tan�
 * [Limine Bootloader](https://github.com/Limine-Bootloader/Limine)
 * [Limine Boot Protocol](https://github.com/Limine-Bootloader/limine-protocol/blob/trunk/PROTOCOL.md)
 * [Limine Configuration Documentation](https://github.com/Limine-Bootloader/Limine/blob/v12.x/CONFIG.md)
+* [Limine C Template](https://github.com/Limine-Bootloader/limine-c-template)
