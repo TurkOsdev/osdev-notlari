@@ -716,7 +716,7 @@ Ancak aşağıdaki konular mimariye özel olarak ele alınmalıdır:
 * interrupt controller
 * mimariye özel exception altyapısı
 
-Bu nedenle örneğin linker script veya `halt()` implementasyonu anlatılırken bunun **Limine'ın kendisine değil hedef mimariye ait olduğu açıkça belirtilmelidir.**
+<!--  Bu nedenle örneğin linker script veya `halt()` implementasyonu anlatılırken bunun **Limine'ın kendisine değil hedef mimariye ait olduğu açıkça belirtilmelidir.** -->  
 
 ---
 
