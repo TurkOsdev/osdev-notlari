@@ -716,7 +716,7 @@ Ancak aşağıdaki konular mimariye özel olarak ele alınmalıdır:
 * interrupt controller
 * mimariye özel exception altyapısı
 
-Bu nedenle örneğin linker script veya `halt()` implementasyonu anlatılırken bunun **Limine'ın kendisine değil hedef mimariye ait olduğu açıkça belirtilmelidir.**
+<!--  Bu nedenle örneğin linker script veya `halt()` implementasyonu anlatılırken bunun **Limine'ın kendisine değil hedef mimariye ait olduğu açıkça belirtilmelidir.** -->  
 
 ---
 
@@ -847,3 +847,4 @@ Limine burada sistemin geri kalanını oluşturmaz; kernel'in güvenilir ve tan�
 * [Limine Bootloader](https://github.com/Limine-Bootloader/Limine)
 * [Limine Boot Protocol](https://github.com/Limine-Bootloader/limine-protocol/blob/trunk/PROTOCOL.md)
 * [Limine Configuration Documentation](https://github.com/Limine-Bootloader/Limine/blob/v12.x/CONFIG.md)
+* [Limine C Template](https://github.com/Limine-Bootloader/limine-c-template)
