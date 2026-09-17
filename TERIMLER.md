@@ -37,6 +37,7 @@ Amaç, metni İngilizce kelimelerle doldurmak değildir. Türkçesi varken İngi
 | queue | kuyruk | |
 | linked list | bağlı liste | |
 | processor / CPU | işlemci | CPU kısaltması da kullanılabilir |
+| interrupt vector | vektör | "interrupt vektörü"; IDT'de tablo indeksi olarak geçer |
 | core | çekirdek | yalnızca CPU çekirdeği için |
 | instruction | komut | |
 | instruction set | komut seti | |
@@ -97,6 +98,7 @@ Bu terimler çevrilmez. Türkçe ek gerektiğinde kesme işareti kullanılır.
 | allocator | bellek ayırıcı | |
 | register | işlemci içi saklama birimi | "yazmaç" aramada karşılık bulmuyor |
 | segment / descriptor | GDT ve segmentation kavramları | tablo adlarıyla birlikte kullanılıyor |
+| gate | IDT girdisinin tanımladığı denetimli geçiş | `interrupt gate` ve `trap gate` descriptor tiplerinin adı |
 | offset | başlangıçtan itibaren kayma | |
 | boot / bootloader | açılış süreci ve açılış yükleyicisi | |
 | firmware | donanım üzerindeki yerleşik yazılım | |
