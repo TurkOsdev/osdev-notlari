@@ -14,7 +14,7 @@ Bu bölüm, kernel'in donanımla kurduğu sözleşmeyi anlatır. Bellek yönetim
 | Kernel'in bellek yerleşimi ve higher half | `bellek-yerlesimi.md` | ⬜ |
 | GDT (Global Descriptor Table) | `gdt.md` | ⬜ |
 | Segmentation ve x86-64'te durumu | `segmentation.md` | ⬜ |
-| IDT (Interrupt Descriptor Table) | `idt.md` | ⬜ |
+| IDT (Interrupt Descriptor Table) | [idt.md](idt.md) | ✅ |
 | Exception'lar ve fault türleri | `exceptionlar.md` | ⬜ |
 | TSS ve kernel stack'leri (IST) | `tss.md` | ⬜ |
 | PIC (8259) | `pic.md` | ⬜ |
