@@ -13,7 +13,7 @@ Bu bölüm, sonraki bölümlerde anlatılan konuları denemek için gereken çal
 | Ön gereksinimler (C, assembly, bilgisayar mimarisi) | [on-gereksinimler.md](on-gereksinimler.md) | ✅ |
 | Geliştirme ortamı kurulumu (Linux / WSL) | [gelistirme-ortami.md](gelistirme-ortami.md) | ✅ |
 | Cross-compiler hazırlama (GCC, Clang) | [cross-compiler.md](cross-compiler.md) | ✅ |
-| Build sistemi: Make ve alternatifleri | `build-sistemi.md` | ⬜ |
+| Build sistemi: Make ve alternatifleri | [build-sistemi.md](build-sistemi.md) | ✅ |
 | QEMU ile emülasyon | `qemu.md` | ⬜ |
 | GDB ile kernel hata ayıklama | `gdb.md` | ⬜ |
 | Gerçek donanımda test etmek | `gercek-donanim.md` | ⬜ |
