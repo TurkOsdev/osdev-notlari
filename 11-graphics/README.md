@@ -7,7 +7,7 @@ Ekrana çıktı vermenin yolları: metin modundan framebuffer'a, oradan modern m
 | Konu | Dosya | Durum |
 | --- | --- | --- |
 | Ekrana çıktı vermenin yolları | `ekran-ciktisi.md` | ⬜ |
-| VGA metin modu | `vga-metin-modu.md` | ⬜ |
+| VGA metin modu | [vga-metin-modu.md](vga-metin-modu.md) | ✅ |
 | Linear framebuffer | `framebuffer.md` | ⬜ |
 | VESA / VBE | `vbe.md` | ⬜ |
 | UEFI GOP | `gop.md` | ⬜ |

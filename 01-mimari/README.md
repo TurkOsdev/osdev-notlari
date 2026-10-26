@@ -14,10 +14,10 @@ Kernel'in yaptığı işlerin çoğu doğrudan mimarinin dayattığı kurallarda
 | ARM64 (AArch64): exception level'lar | `arm64.md` | ⬜ |
 | RISC-V: privilege mode'lar ve eklentiler | `riscv.md` | ⬜ |
 | Ayrıcalık seviyeleri (ring'ler, EL'ler, mode'lar) | `ayricalik-seviyeleri.md` | ⬜ |
-| Endianness | `endianness.md` | ⬜ |
+| Endianness | [endianness.md](endianness.md) | ✅ |
 | Bellek hiyerarşisi: cache ve TLB | `cache-ve-tlb.md` | ⬜ |
 | Bellek modeli ve sıralama (memory ordering) | `bellek-modeli.md` | ⬜ |
-| MMIO ve port I/O | `mmio-ve-port-io.md` | ⬜ |
+| MMIO ve port I/O | [mmio-ve-port-io.md](mmio-ve-port-io.md) | ✅ |
 | Mimari manual'ları nasıl okunur | `manual-okuma.md` | ⬜ |
 
 ---
