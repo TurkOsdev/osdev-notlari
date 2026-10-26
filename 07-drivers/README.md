@@ -14,9 +14,9 @@ Sürücüler, kernel kodunun büyük bölümünü oluşturur. Bu bölüm önce g
 | DMA | `dma.md` | ⬜ |
 | ACPI ve tabloları | `acpi.md` | ⬜ |
 | PCI ve PCIe cihaz keşfi | `pci.md` | ⬜ |
-| Seri port (UART) | `uart.md` | ⬜ |
+| Seri port (UART) | [uart.md](uart.md) | ✅ |
 | PS/2 klavye ve fare | `ps2.md` | ⬜ |
-| RTC ve CMOS | `rtc.md` | ⬜ |
+| RTC ve CMOS | [rtc.md](rtc.md) | ✅ |
 | ATA/IDE ve AHCI | `ata-ve-ahci.md` | ⬜ |
 | NVMe | `nvme.md` | ⬜ |
 | USB mimarisi ve XHCI | `usb.md` | ⬜ |

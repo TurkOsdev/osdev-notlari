@@ -14,7 +14,7 @@ Bu bölüm, sonraki bölümlerde anlatılan konuları denemek için gereken çal
 | Geliştirme ortamı kurulumu (Linux / WSL) | [gelistirme-ortami.md](gelistirme-ortami.md) | ✅ |
 | Cross-compiler hazırlama (GCC, Clang) | [cross-compiler.md](cross-compiler.md) | ✅ |
 | Build sistemi: Make ve alternatifleri | [build-sistemi.md](build-sistemi.md) | ✅ |
-| QEMU ile emülasyon | `qemu.md` | ⬜ |
+| QEMU ile emülasyon | [qemu.md](qemu.md) | ✅ |
 | GDB ile kernel hata ayıklama | `gdb.md` | ⬜ |
 | Gerçek donanımda test etmek | `gercek-donanim.md` | ⬜ |
 | Sık yapılan hatalar ve yanlış bilinenler | `sik-yapilan-hatalar.md` | ⬜ |

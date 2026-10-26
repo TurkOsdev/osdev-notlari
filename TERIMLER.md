@@ -73,6 +73,10 @@ Amaç, metni İngilizce kelimelerle doldurmak değildir. Türkçesi varken İngi
 | implementation | implementasyon | "gerçekleme" kullanılmaz |
 | specification | spesifikasyon | |
 | documentation | dokümantasyon | |
+| syntax | söz dizimi | |
+| operand | işlenen | komutun üzerinde çalıştığı register, bellek veya sabit değer |
+| mask (interrupt) | maskeleme | bir interrupt'ı iletilmeyecek şekilde susturmak |
+| cursor | imleç | |
 
 ## İngilizce bırakılan terimler
 
@@ -126,6 +130,9 @@ Bu terimler çevrilmez. Türkçe ek gerektiğinde kesme işareti kullanılır.
 | target triple | toolchain'in hedeflediği sistemi belirten ad (`x86_64-elf`) | derleyici seçeneklerinde bu adla geçiyor |
 | red zone | x86-64 ABI'sinde stack pointer'ın altında kalan 128 baytlık bölge | `-mno-red-zone` bayrağının adında geçiyor |
 | multilib | aynı derleyicinin farklı bayrak kümeleri için ürettiği kütüphane sürümleri | GCC'nin kendi terimi |
+| little endian / big endian | düşük veya yüksek anlamlı baytın önce geldiği düzen | `endianness` ile birlikte bu adlarla aranıyor |
+| hosted | standart kütüphanenin tam olduğu C ortamı | C standardının kendi terimi, `freestanding` ile birlikte kullanılıyor |
+| baud rate | seri hatta saniyede gönderilen bit sayısı | aygıt dokümantasyonunda bu adla geçiyor |
 
 ## Ek alma kuralları
 
