@@ -8,14 +8,14 @@ Sürücüler, kernel kodunun büyük bölümünü oluşturur. Bu bölüm önce g
 
 | Konu | Dosya | Durum |
 | --- | --- | --- |
-| Sürücü nedir, kernel içinde nerede durur | `surucu-nedir.md` | ⬜ |
-| Donanım erişimi: port I/O ve MMIO | `donanim-erisimi.md` | ⬜ |
-| Kesme tabanlı sürücüler ve interrupt handler tasarımı | `kesme-tabanli-suruculer.md` | ⬜ |
+| Sürücü nedir, kernel içinde nerede durur | [surucu-nedir.md](surucu-nedir.md) | ✅ |
+| Donanım erişimi: port I/O ve MMIO | [donanim-erisimi.md](donanim-erisimi.md) | ✅ |
+| Kesme tabanlı sürücüler ve interrupt handler tasarımı | [kesme-tabanli-suruculer.md](kesme-tabanli-suruculer.md) | ✅ |
 | DMA | `dma.md` | ⬜ |
 | ACPI ve tabloları | `acpi.md` | ⬜ |
 | PCI ve PCIe cihaz keşfi | `pci.md` | ⬜ |
 | Seri port (UART) | [uart.md](uart.md) | ✅ |
-| PS/2 klavye ve fare | `ps2.md` | ⬜ |
+| PS/2 klavye ve fare | [ps2.md](ps2.md) | ✅ |
 | RTC ve CMOS | [rtc.md](rtc.md) | ✅ |
 | ATA/IDE ve AHCI | `ata-ve-ahci.md` | ⬜ |
 | NVMe | `nvme.md` | ⬜ |
